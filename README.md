@@ -88,6 +88,8 @@ Tools that protect AI systems at runtime.
 | [Lakera Guard](https://www.lakera.ai/) | — | Prompt injection detection API | SaaS |
 | [Detoxify](https://github.com/unitaryai/detoxify) | ![Stars](https://img.shields.io/github/stars/unitaryai/detoxify?style=flat) | Toxicity detection | Apache 2.0 |
 
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | — | On-chain wallet trust scoring for Solana agents before x402 micropayments. Free MCP tools: `score_agent`, `preflight_check`. | Free (x402 for receipts) |
+
 ## Compliance & Governance
 
 Frameworks and tools for AI regulatory compliance.

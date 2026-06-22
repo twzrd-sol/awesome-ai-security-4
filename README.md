@@ -82,6 +82,7 @@ Tools that protect AI systems at runtime.
 
 | Tool | Stars | Focus | License |
 |------|-------|-------|---------|
+| [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) | ![Stars](https://img.shields.io/github/stars/ArmorerLabs/Armorer-Guard?style=flat) | Local Rust scanner and MCP proxy for prompt injection, credential leakage, exfiltration, and risky tool-call detection | MIT |
 | [LLM Guard](https://github.com/protectai/llm-guard) | ![Stars](https://img.shields.io/github/stars/protectai/llm-guard?style=flat) | Input/output guardrails for LLMs | MIT |
 | [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) | ![Stars](https://img.shields.io/github/stars/NVIDIA/NeMo-Guardrails?style=flat) | Programmable guardrails for LLM apps | Apache 2.0 |
 | [Guardrails AI](https://github.com/guardrails-ai/guardrails) | ![Stars](https://img.shields.io/github/stars/guardrails-ai/guardrails?style=flat) | Input/output validation for LLMs | Apache 2.0 |

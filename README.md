@@ -125,6 +125,7 @@ Frameworks and tools for AI regulatory compliance.
 
 ### Surveys
 - [A Survey of Adversarial Machine Learning in Cybersecurity](https://arxiv.org/abs/2007.02407) — comprehensive overview of adversarial ML
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating offensive tools as an MCP host with proof of exploitation and a local privacy gateway.
 - [Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173) — foundational prompt injection research
 - [Jailbroken: How Does LLM Safety Training Fail?](https://arxiv.org/abs/2307.02483) — analysis of LLM jailbreak techniques
 
